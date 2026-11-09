@@ -1,0 +1,23 @@
+[
+  {
+    "id": "shepot",
+    "emoji": "🎙",
+    "name": "Shepot — голос в текст",
+    "about": "Зажал клавишу → сказал → текст появился где угодно: Telegram, браузер, Word. Работает без интернета, голос никуда не отправляется. Бесплатная замена платным SuperWhisper и MacWhisper.",
+    "repo": "PavelB-22/shepot",
+    "platforms": {
+      "mac": {
+        "title": "🍏 Mac (M1 и новее)",
+        "asset": "aarch64.dmg",
+        "how": "Открой программу «Терминал» (⌘ + пробел → Терминал), вставь строку и нажми Enter:",
+        "install": "curl -fsSL https://raw.githubusercontent.com/PavelB-22/shepot/main/install.sh | bash"
+      },
+      "windows": {
+        "title": "🪟 Windows 10/11",
+        "asset": "x64-setup.exe",
+        "how": "Нажми Win, набери PowerShell, открой, вставь строку и нажми Enter:",
+        "install": "irm https://raw.githubusercontent.com/PavelB-22/shepot/main/install.ps1 | iex"
+      }
+    }
+  }
+]

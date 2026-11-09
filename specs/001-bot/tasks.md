@@ -1,0 +1,6 @@
+- [x] T1 programs.json, .env.example, requirements.txt
+- [x] T2 [US1] меню, проверка подписки, выдача команд установки
+- [x] T3 [US2] наблюдатель за релизами + пост в канал
+- [x] T4 [US3] /post, /stats
+- [x] T5 setup.sh для VPS
+- [ ] T6 Запуск на сервере и проверка (Converge)
